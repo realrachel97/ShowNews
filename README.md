@@ -17,8 +17,7 @@ An Android application used to show headlines and search related news, built wit
 
 ![search](https://user-images.githubusercontent.com/74288362/178090877-80f009d6-9ecd-4318-9eac-c62982a5ff87.gif)   
 
-## Reflection 
-This was a side project built during my second year at the University of Southern California. Project goals included using Android technologies learned up until this point and familiarizing myself with the Android development.  
+
    
 ### Technologies implemented
 
